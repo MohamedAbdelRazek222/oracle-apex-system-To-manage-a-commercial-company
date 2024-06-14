@@ -12,3 +12,5 @@ Invoicing: Generate invoices for both suppliers and customers, ensuring accurate
 
 # Contributing
 Contributions to enhance the functionality, usability, and performance of the Company Management System are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+![1](https://github.com/MohamedAbdelRazek222/oracle-apex-system-To-manage-a-commercial-company/assets/118555438/13a0b9ff-bcba-444d-bdf2-a7fe19f878f2)
